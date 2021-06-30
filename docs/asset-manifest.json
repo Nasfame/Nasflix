@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nasflix/static/css/main.016ca706.chunk.css",
+    "main.js": "/nasflix/static/js/main.974841c7.chunk.js",
+    "main.js.map": "/nasflix/static/js/main.974841c7.chunk.js.map",
+    "runtime-main.js": "/nasflix/static/js/runtime-main.d1731dc0.js",
+    "runtime-main.js.map": "/nasflix/static/js/runtime-main.d1731dc0.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/nasflix/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c297e89c.chunk.js": "/nasflix/static/js/2.c297e89c.chunk.js",
+    "static/js/2.c297e89c.chunk.js.map": "/nasflix/static/js/2.c297e89c.chunk.js.map",
+    "index.html": "/nasflix/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/nasflix/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.016ca706.chunk.css.map": "/nasflix/static/css/main.016ca706.chunk.css.map",
+    "static/js/2.c297e89c.chunk.js.LICENSE.txt": "/nasflix/static/js/2.c297e89c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1731dc0.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c297e89c.chunk.js",
+    "static/css/main.016ca706.chunk.css",
+    "static/js/main.974841c7.chunk.js"
+  ]
+}
