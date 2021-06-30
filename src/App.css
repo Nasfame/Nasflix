@@ -1,0 +1,40 @@
+body {
+    background: #141414;
+    color: #ffffff;
+    height: 100%;
+}
+
+.movie-app > .row {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+}
+
+.row::-webkit-scrollbar {
+    display: none;
+}
+
+.image-container {
+    position: relative;
+    transition: transform 0.2s;
+    height: 30vh;
+    width: 20vh;
+}
+
+.image-container:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.image-container:hover .overlay {
+    opacity: 1;
+}
+
+.overlay {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    transition: 0.5s ease;
+    opacity: 0;
+    bottom: 0;
+    padding: 20px;
+    text-align: center;
+}
