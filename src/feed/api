@@ -1,0 +1,11 @@
+// const searchDB = async (searchValue) => {
+//   const apiKey = "c1712d05"
+//   const url = `http://www.omdbapi.com/?s=${searchValue}&apikey=${apiKey}`
+//http://www.omdbapi.com/?s=star&apikey=c1712d05
+//   const response = await fetch(url)
+//   const responseJson = await response.json()
+
+//   if (responseJson.Search) {
+//     setMovies(responseJson.Search)
+//   }
+// }
