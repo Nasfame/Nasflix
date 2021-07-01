@@ -6,7 +6,7 @@ Aesthetic Interface for Movies  &amp; Series streaming applications
 
 ## [Nasflix](http://nasflix.surge.sh/)
 
-## [GitPage](http://nasfame.github.io/nasflix)
+## [GitPage](http://nasfame.github.io/Nasflix)
 
 
 ## Tools
